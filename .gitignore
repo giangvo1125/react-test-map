@@ -1,0 +1,10 @@
+node_modules
+//public
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.npm/
+.profile
+../.DS_Store
+../npm-debug.log

@@ -2,8 +2,6 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 
-import WriteBlogAction from '../actions/write_blog_action'
-
 import MapComponent from './map'
 import ToolsComponent from './tools'
 import ListComponent from './list'
